@@ -1,4 +1,4 @@
-[![banner](./images/BannerImg.svg)](https://caspertheghost.me)
+[![banner](./images/banner.svg)](https://www.avalonlife.ru)
 
 ## Hello! 👋
 
