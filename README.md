@@ -1,6 +1,6 @@
 [![banner](./images/banner.svg)](https://www.avalonlife.ru)
 
-## Hello! 👋
+## Привет/Hello/Cześć 👋
 
 - ⚡️Fast learner
 - 🤟 I love programming, learning and math
@@ -23,4 +23,4 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
-<code><img height="30" src="./images/do_logo.svg"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-256.png"></code>
