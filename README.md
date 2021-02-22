@@ -25,10 +25,6 @@
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-256.png"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/6cc41155e58a4eebe7353d524da5ebb0de7aaf4fd4ad45fb9a433c8b41d38c16/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png"></code>
-
-
- 
-
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burevestnikk)](https://github.com/anuraghazra/github-readme-stats)
