@@ -1,4 +1,4 @@
-[![banner](.banner.svg)](https://www.avalonlife.ru)
+[![banner](./banner.svg)](https://www.avalonlife.ru)
 
 ## Hello! 👋
 
