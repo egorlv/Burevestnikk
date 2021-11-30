@@ -5,8 +5,8 @@
 - ⚡️ Fast learner
 - 🤟 I love programming
 - 🌱 Currently learning Java (in university)
-- 💪 Currently working on: [Avalon Project FiveM]
-- 📦 My biggest project so far: [Avalon Project](https://www.avalonlife.ru)
+- 💪 Currently working on: [out on my own]
+- 📦 My biggest project so far: [Avalon Project]
 
 ## skills and tools
 
