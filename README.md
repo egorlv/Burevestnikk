@@ -47,7 +47,7 @@
   </a>
 
   <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="49%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/banner.svg" alt="i18n-js: Bring Ruby’s I18n translations to JavaScript. It comes with Rails support.">
+    <img width="49%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_1.png" alt="i18n-js: Bring Ruby’s I18n translations to JavaScript. It comes with Rails support.">
   </a>
 </p>
 
