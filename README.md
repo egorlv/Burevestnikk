@@ -42,7 +42,7 @@
 ### Projects you should take a look
 
 <p align="center">
-  <a href="https://github.com/fnando/browser">
+  <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
     <img width="49%" src="https://github.com/fnando/fnando/raw/main/images/browser.png" alt="browser: Do some browser detection with Ruby. Includes ActionController integration.">
   </a>
 
