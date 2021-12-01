@@ -43,20 +43,20 @@
 
 <p align="center">
   <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="49%" src="https://github.com/fnando/fnando/raw/main/images/browser.png" alt="browser: Do some browser detection with Ruby. Includes ActionController integration.">
+    <img width="49%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/banner.svg" alt="browser: Do some browser detection with Ruby. Includes ActionController integration.">
   </a>
 
-  <a href="https://github.com/fnando/i18n-js">
-    <img width="49%" src="https://github.com/fnando/fnando/raw/main/images/i18n-js.png" alt="i18n-js: Bring Ruby’s I18n translations to JavaScript. It comes with Rails support.">
+  <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
+    <img width="49%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/banner.svg" alt="i18n-js: Bring Ruby’s I18n translations to JavaScript. It comes with Rails support.">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/fnando/attr_keyring">
-    <img width="49%" src="https://github.com/fnando/fnando/raw/main/images/attr_keyring.png" alt="attr_keyring: Simple encryption-at-rest with key rotation support for Ruby.">
+  <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
+    <img width="49%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/banner.svg" alt="attr_keyring: Simple encryption-at-rest with key rotation support for Ruby.">
   </a>
 
-  <a href="https://github.com/fnando/keyring-node">
-    <img width="49%" src="https://github.com/fnando/fnando/raw/main/images/keyring.png" alt="keyring: Simple encryption-at-rest with key rotation support for Node.js.">
+  <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
+    <img width="49%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/banner.svg" alt="keyring: Simple encryption-at-rest with key rotation support for Node.js.">
   </a>
 </p>
