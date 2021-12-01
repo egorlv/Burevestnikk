@@ -47,16 +47,16 @@
   </a>
 
   <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_1.png" alt="i18n-js: Bring Ruby’s I18n translations to JavaScript. It comes with Rails support.">
+    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_2.png" alt="i18n-js: Bring Ruby’s I18n translations to JavaScript. It comes with Rails support.">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_1.png" alt="attr_keyring: Simple encryption-at-rest with key rotation support for Ruby.">
+    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_3.png" alt="attr_keyring: Simple encryption-at-rest with key rotation support for Ruby.">
   </a>
 
   <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_1.png" alt="keyring: Simple encryption-at-rest with key rotation support for Node.js.">
+    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_4.png" alt="keyring: Simple encryption-at-rest with key rotation support for Node.js.">
   </a>
 </p>
