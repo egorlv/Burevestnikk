@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="49%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/banner.svg" alt="browser: Do some browser detection with Ruby. Includes ActionController integration.">
+    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_1.png" alt="browser: Do some browser detection with Ruby. Includes ActionController integration.">
   </a>
 
   <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
@@ -53,10 +53,10 @@
 
 <p align="center">
   <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="49%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/banner.svg" alt="attr_keyring: Simple encryption-at-rest with key rotation support for Ruby.">
+    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_1.png" alt="attr_keyring: Simple encryption-at-rest with key rotation support for Ruby.">
   </a>
 
   <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="49%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/banner.svg" alt="keyring: Simple encryption-at-rest with key rotation support for Node.js.">
+    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_1.png" alt="keyring: Simple encryption-at-rest with key rotation support for Node.js.">
   </a>
 </p>
