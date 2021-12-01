@@ -31,13 +31,13 @@
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burevestnikk)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burevestnikk)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Burevestnikk&show_icons=true)  
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Burevestnikk&show_icons=true)  -->
 
-![GitHub metrics](https://metrics.lecoq.io/Burevestnikk)  
+<!--![GitHub metrics](https://metrics.lecoq.io/Burevestnikk)  -->
 
-![Profile views](https://gpvc.arturio.dev/Burevestnikk)  
+<!--![Profile views](https://gpvc.arturio.dev/Burevestnikk)  -->
 
 ### Projects you should take a look
 
