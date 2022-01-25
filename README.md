@@ -39,7 +39,7 @@
 
 <!--![Profile views](https://gpvc.arturio.dev/Burevestnikk)  -->
 
-/*##  Projects you should take a look / Projekty, które powinieneś zobaczyć 
+<!--##  Projects you should take a look / Projekty, które powinieneś zobaczyć 
 
 <p align="center">
   <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
@@ -60,4 +60,4 @@
     <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_4.png" alt="keyring: Simple encryption-at-rest with key rotation support for Node.js.">
   </a>
 </p>
-*/
+-->
