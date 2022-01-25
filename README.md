@@ -61,3 +61,6 @@
   </a>
 </p>
 -->
+You can see overview stats from last year [here](https://micorix.wrapped.run)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micorix&layout=compact)
