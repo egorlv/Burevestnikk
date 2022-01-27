@@ -63,4 +63,5 @@
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burevestnikk&layout=compact)
-https://www.codewars.com/users/Burevestnik/badges/large
+
+<a href="https://www.codewars.com/users/Burevestnik/badges/large"></a>
