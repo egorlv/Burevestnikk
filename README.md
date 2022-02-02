@@ -60,5 +60,6 @@
   </a>
 </p>
 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burevestnikk&layout=compact)
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burevestnikk&layout=compact)
+</p>
