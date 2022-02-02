@@ -4,11 +4,15 @@
 </p>
 
 ![I am a software engineering student](https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67)
-<hr align="center" width="500" size="2" color="#ff0000" />
+
+<hr align="center" width="500" size="2" color="#ff0000" >
+
 <p align="center">
     <label><b>skills and tools</b></label>
 </p>
-<hr align="center" width="500" size="2" color="#ff0000" />
+
+<hr align="center" width="500" size="2" color="#ff0000" >
+
 <p align="center">
 <code><img height="30" src="https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/f85f882cb31eeaeee657ec955313015c30378e8f56c3dc2f06933b617a276cfd/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3734372f3739382f706e672d7472616e73706172656e742d6d7973716c2d6c6f676f2d6d7973716c2d64617461626173652d7765622d646576656c6f706d656e742d636f6d70757465722d736f6674776172652d646f6c7068696e2d6d6172696e652d6d616d6d616c2d616e696d616c732d746578742d7468756d626e61696c2e706e67"></code>
@@ -25,7 +29,9 @@
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-256.png"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/6cc41155e58a4eebe7353d524da5ebb0de7aaf4fd4ad45fb9a433c8b41d38c16/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069"></code>
 </p>
+
 <hr align="center" width="500" size="2" color="#ff0000" />
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Burevestnikk&show_icons=true" />
 </p>
