@@ -19,44 +19,15 @@
 <code><img height="30" src="https://camo.githubusercontent.com/05d7710c29779b5f7f7c467eb6d9bcca794939dfecc5e73dedebebe9921399bf/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63662f4c75612d4c6f676f2e7376672f39343770782d4c75612d4c6f676f2e7376672e706e67"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-256.png"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/6cc41155e58a4eebe7353d524da5ebb0de7aaf4fd4ad45fb9a433c8b41d38c16/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069"></code>
-<!--<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png"></code>-->
 </p>
 
  
-
-<!--<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>-->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burevestnikk)](https://github.com/anuraghazra/github-readme-stats)-->
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Burevestnikk&show_icons=true)  
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burevestnikk&layout=compact)
 
 
-<!--![GitHub metrics](https://metrics.lecoq.io/Burevestnikk)  -->
+![GitHub metrics](https://metrics.lecoq.io/Burevestnikk)
 
-<!--![Profile views](https://gpvc.arturio.dev/Burevestnikk)  -->
-
-<!--##  Projects you should take a look / Projekty, które powinieneś zobaczyć 
-
-<p align="center">
-  <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_1.png" alt="browser: Do some browser detection with Ruby. Includes ActionController integration.">
-  </a>
-
-  <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_2.png" alt="i18n-js: Bring Ruby’s I18n translations to JavaScript. It comes with Rails support.">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_3.png" alt="attr_keyring: Simple encryption-at-rest with key rotation support for Ruby.">
-  </a>
-
-  <a href="https://github.com/Burevestnikk/burevestnikk.github.io">
-    <img width="20%" src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/img_4.png" alt="keyring: Simple encryption-at-rest with key rotation support for Node.js.">
-  </a>
-</p>
--->
+![Profile views](https://gpvc.arturio.dev/Burevestnikk)
