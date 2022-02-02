@@ -24,15 +24,11 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Burevestnikk&show_icons=true" />
-  </p>
-  <p align="center">
+</p>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burevestnikk&layout=compact" />
-  </p>
+</p>
+<p align="center">
+    <img src="https://gpvc.arturio.dev/Burevestnikk" alt="visitor badge"/>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Burevestnikk&show_icons=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burevestnikk&layout=compact)
-
-<!--![GitHub metrics](https://metrics.lecoq.io/Burevestnikk)-->
-
-![Profile views](https://gpvc.arturio.dev/Burevestnikk)
