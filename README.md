@@ -1,5 +1,5 @@
 <p align="center">
-    <label><b>Привет/Hello/Cześć 👋, my name is Egor</b><img src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/wave.gif" width="25px"></label>
+    <label><b>Привет/Hello/Cześć <img src="https://github.com/Burevestnikk/Burevestnikk/blob/main/images/wave.gif" width="25px">, my name is Egor</b></label>
     <label><b>I am a software engineering student</b></label>
 </p>
 
