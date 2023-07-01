@@ -33,16 +33,5 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 <hr>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Burevestnikk&show_icons=true" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burevestnikk&layout=compact" />
-</p>
 
-<hr>
-<p align="center">
-    <img src="https://gpvc.arturio.dev/Burevestnikk" alt="visitor badge"/>
-</p>
