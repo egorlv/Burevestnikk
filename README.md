@@ -3,8 +3,6 @@
     <label><b>I am a software engineering student</b></label>
 </p>
 
-![I am a software engineering student]
-
 <hr>
 <p align="center">
     <label><b>skills and tools</b></label>
